@@ -176,7 +176,7 @@ if (x > y) {
   console.log(y + " is equal " + x);
 }
 //==========================================mostExpensive==============================
-function mostExpensive({ st1, st2 }) {
+/*function mostExpensive({ st1, st2 }) {
   let expensive = 0;
   var name;
 
@@ -193,5 +193,5 @@ mostExpensive({
   "Diamond Earrings": 980,
   "Gold Watch": 250,
   "Pearl Necklace": 4650,
-});
+}); */
 //===================================================================================
